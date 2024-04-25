@@ -1,0 +1,10 @@
+streamlit
+python-pptx
+transformers
+torch
+sentencepiece
+sacremoses
+Pillow
+pytesseract
+pdf2image
+ArabicOcr
